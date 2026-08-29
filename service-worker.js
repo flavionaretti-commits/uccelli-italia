@@ -1,4 +1,4 @@
-const CACHE = 'uccelli-italia-v4';
+const CACHE = 'uccelli-italia-v5';
 const ASSETS = [
   './',
   './index.html',

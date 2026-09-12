@@ -2,6 +2,7 @@
   "name": "Uccelli d'Italia · Studio e riconoscimento",
   "short_name": "Uccelli",
   "description": "100 uccelli d'Italia da studiare e riconoscere con fotografie, nomi scientifici, canti e richiami.",
+  "id": "/uccelli-italia/",
   "lang": "it",
   "start_url": "./",
   "scope": "./",
